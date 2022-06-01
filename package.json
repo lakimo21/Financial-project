@@ -1,0 +1,29 @@
+{
+  "name": "front-mone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env ENV=staging nuxt-ts",
+    "generate": "cross-env ENV=staging nuxt-ts generate",
+    "generate:uat": "cross-env ENV=uat nuxt-ts generate",
+    "generate:production": "cross-env ENV=production nuxt-ts generate",
+    "start": "nuxt-ts start",
+    "build": "nuxt-ts build",
+    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
+    "lint": "npm run lint:js"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.0.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "bootstrap": "^5.1.3",
+    "core-js": "^3.15.1",
+    "cross-env": "^7.0.3",
+    "nuxt": "^2.15.7",
+    "v-dropdown-menu": "^1.3.2",
+    "vue-click-outside": "^1.1.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}

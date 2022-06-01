@@ -1,0 +1,21 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - nvm use $VERSION_NODE_10
+        - npm install
+    build:
+      commands:
+        - nvm use $VERSION_NODE_10
+        - node --version
+        - if [ "${AWS_BRANCH}" = "develop" ]; then npm run generate; fi
+        - if [ "${AWS_BRANCH}" = "UAT-GSF" ]; then npm run generate:uat; fi
+        - if [ "${AWS_BRANCH}" = "production" ]; then npm run generate:production; fi
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*

@@ -1,0 +1,59 @@
+<svg id="Component_36_1" data-name="Component 36 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="902.815" height="58.677" viewBox="0 0 902.815 58.677">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_8882" data-name="Path 8882" d="M39.226,3.452A29.226,29.226,0,0,0,68.452-25.774,29.226,29.226,0,0,0,39.226-55,29.226,29.226,0,0,0,10-25.774,29.226,29.226,0,0,0,39.226,3.452Z" transform="translate(-10 55)" fill="#fff" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_8881" data-name="Path 8881" d="M-71,3349.834H2267.078V-797H-71Z" transform="translate(71 797)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Path_8870" data-name="Path 8870" d="M39.226,3.452A29.226,29.226,0,0,0,68.452-25.774,29.226,29.226,0,0,0,39.226-55,29.226,29.226,0,0,0,10-25.774,29.226,29.226,0,0,0,39.226,3.452Z" transform="translate(-10 55)" fill="#4dc47d" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Path_8869" data-name="Path 8869" d="M-71,3349.834H2267.078V-797H-71Z" transform="translate(71 797)" fill="#4dc47d"/>
+    </clipPath>
+  </defs>
+  <path id="Path_8871" data-name="Path 8871" d="M.571.5H154.128" transform="translate(57.881 28.726)" fill="#4dc47d" stroke="#fff" stroke-linecap="square" stroke-width="2"/>
+  <path id="Path_8892" data-name="Path 8892" d="M.571.5H181.4" transform="translate(242.804 28.726)" fill="#4dc47d" stroke="#fff" stroke-linecap="square" stroke-width="2"/>
+  <path id="Path_8879" data-name="Path 8879" d="M.571.5H388.657" transform="translate(452.792 28.5)" fill="#4dc47d" stroke="#fff" stroke-linecap="square" stroke-width="2"/>
+  <g id="Group_18075" data-name="Group 18075" transform="translate(203.637)" clip-path="url(#clip-path)">
+    <g id="Group_18074" data-name="Group 18074" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-2)">
+      <path id="Path_8880" data-name="Path 8880" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_18078" data-name="Group 18078" transform="translate(408.637)" clip-path="url(#clip-path)">
+    <g id="Group_18077" data-name="Group 18077" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-2)">
+      <path id="Path_8883" data-name="Path 8883" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_18081" data-name="Group 18081" transform="translate(844.363)" clip-path="url(#clip-path)">
+    <g id="Group_18080" data-name="Group 18080" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-2)">
+      <path id="Path_8886" data-name="Path 8886" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_18084" data-name="Group 18084" transform="translate(613.637)" clip-path="url(#clip-path)">
+    <g id="Group_18083" data-name="Group 18083" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-2)">
+      <path id="Path_8889" data-name="Path 8889" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_18076" data-name="Group 18076" transform="translate(226.637 14.999)">
+    <text id="_2" data-name="2" transform="translate(0 22)" fill="#b5b9d0" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g id="Group_18079" data-name="Group 18079" transform="translate(431.637 14.999)">
+    <text id="_3" data-name="3" transform="translate(0 22)" fill="#b5b9d0" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">3</tspan></text>
+  </g>
+  <g id="Group_18082" data-name="Group 18082" transform="translate(867.363 14.999)">
+    <text id="_5" data-name="5" transform="translate(0 22)" fill="#b5b9d0" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">5</tspan></text>
+  </g>
+  <g id="Group_18085" data-name="Group 18085" transform="translate(636.637 14.999)">
+    <text id="_4" data-name="4" transform="translate(0 22)" fill="#b5b9d0" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">4</tspan></text>
+  </g>
+  <g id="Group_18059" data-name="Group 18059" transform="translate(0 0.226)" clip-path="url(#clip-path-9)">
+    <g id="Group_18058" data-name="Group 18058" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-10)">
+      <path id="Path_8868" data-name="Path 8868" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#4dc47d"/>
+    </g>
+  </g>
+  <g id="Group_18060" data-name="Group 18060" transform="translate(23 15.226)">
+    <text id="_1" data-name="1" transform="translate(0 22)" fill="#fff" font-size="23" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg id="Component_35_1" data-name="Component 35 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="899.178" height="58.677" viewBox="0 0 899.178 58.677">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_4569" data-name="Path 4569" d="M39.226,3.452A29.226,29.226,0,0,0,68.452-25.774,29.226,29.226,0,0,0,39.226-55,29.226,29.226,0,0,0,10-25.774,29.226,29.226,0,0,0,39.226,3.452Z" transform="translate(-10 55)" fill="#91e986" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_4568" data-name="Path 4568" d="M-71,3349.834H2267.078V-797H-71Z" transform="translate(71 797)" fill="#91e986"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_4572" data-name="Path 4572" d="M39.226,3.452A29.226,29.226,0,0,0,68.452-25.774,29.226,29.226,0,0,0,39.226-55,29.226,29.226,0,0,0,10-25.774,29.226,29.226,0,0,0,39.226,3.452Z" transform="translate(-10 55)" fill="#4dc47d" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_4571" data-name="Path 4571" d="M-71,3349.834H2267.078V-797H-71Z" transform="translate(71 797)" fill="#4dc47d"/>
+    </clipPath>
+  </defs>
+  <path id="Path_4333" data-name="Path 4333" d="M.571.5h354.51" transform="translate(57.881 28.726)" fill="none" stroke="#4dc47d" stroke-linecap="square" stroke-width="2"/>
+  <path id="Path_4566" data-name="Path 4566" d="M.571.5H388.657" transform="translate(452.792 28.5)" fill="none" stroke="#4dc47d" stroke-linecap="square" stroke-width="2"/>
+  <g id="Group_12295" data-name="Group 12295" transform="translate(409.363)" clip-path="url(#clip-path)">
+    <g id="Group_12294" data-name="Group 12294" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-2)">
+      <path id="Path_4567" data-name="Path 4567" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#91e986"/>
+    </g>
+  </g>
+  <g id="Group_12296" data-name="Group 12296" transform="translate(425.688 14.999)">
+    <text id="_2" data-name="2" transform="translate(0 22)" fill="#10284c" font-size="23" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g id="Group_12298" data-name="Group 12298" transform="translate(409.363)" clip-path="url(#clip-path-3)">
+    <g id="Group_12297" data-name="Group 12297" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-4)">
+      <path id="Path_4570" data-name="Path 4570" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#4dc47d"/>
+    </g>
+  </g>
+  <g id="Group_12301" data-name="Group 12301" transform="translate(840.727)" clip-path="url(#clip-path-3)">
+    <g id="Group_12300" data-name="Group 12300" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-4)">
+      <path id="Path_4573" data-name="Path 4573" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#4dc47d"/>
+    </g>
+  </g>
+  <g id="Group_12299" data-name="Group 12299" transform="translate(432.363 14.999)">
+    <text id="_2-2" data-name="2" transform="translate(0 22)" fill="#fff" font-size="23" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g id="Group_12302" data-name="Group 12302" transform="translate(863.727 14.999)">
+    <text id="_3" data-name="3" transform="translate(0 22)" fill="#fff" font-size="23" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+  </g>
+  <g id="Group_12308" data-name="Group 12308" transform="translate(0 0.226)" clip-path="url(#clip-path-3)">
+    <g id="Group_12307" data-name="Group 12307" transform="translate(-131.517 -1204.758)" clip-path="url(#clip-path-4)">
+      <path id="Path_4576" data-name="Path 4576" d="M5-60H79.689V14.688H5Z" transform="translate(118.399 1256.639)" fill="#4dc47d"/>
+    </g>
+  </g>
+  <g id="Group_12309" data-name="Group 12309" transform="translate(23 15.226)">
+    <text id="_1" data-name="1" transform="translate(0 22)" fill="#fff" font-size="23" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>
